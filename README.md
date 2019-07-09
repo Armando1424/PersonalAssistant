@@ -1,4 +1,5 @@
 # jarvis_project
+
 It uses gtts (Google-text-to-speech).
 
 Prerequisites:
@@ -30,9 +31,10 @@ or
 6. pyaudio: use - 
 
 <code>apt-get install python-pyaudio</code>
-<code>apt-get install libjack-jackd2-dev portaudio19-dev</code>
-<code>pip3 install pyaudio</code>
 
+<code>apt-get install libjack-jackd2-dev portaudio19-dev</code>
+
+<code>pip3 install pyaudio</code>
 
 The origial code is provided by: Vikrant Chauhan
 
